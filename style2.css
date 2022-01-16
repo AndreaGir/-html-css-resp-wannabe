@@ -3,9 +3,12 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+        background-color: rgb(235, 221, 96);
     }
 
-    #lezioni{
+    .row1{
+        background-color: white;
+    }
        
 
 }
